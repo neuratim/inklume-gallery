@@ -1,0 +1,13 @@
+# What the NeuraTiM Inklume app downloads, and nothing else: the catalogue,
+# its previews and the collections. Written by the app's own repository; never
+# edited by hand. An allow-list.
+/*
+!/.gitignore
+!/.gitattributes
+!/LICENSE
+!/README.md
+!/catalogue.json
+!/previews/
+!/galleries/
+
+.DS_Store
